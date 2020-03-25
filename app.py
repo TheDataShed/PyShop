@@ -1,5 +1,4 @@
 from datetime import datetime
-import json
 from flask import (
     Flask,
     jsonify,
